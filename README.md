@@ -4,3 +4,4 @@ Major Updates:
 - Reward System transfered to the home page
 - Logo added
 - Improved UI Design
+- Added database system
